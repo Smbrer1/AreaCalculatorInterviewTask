@@ -18,4 +18,8 @@
       <ProjectReference Include="..\AreaCalculator\AreaCalculator.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Microsoft.Data.SqlClient" Version="5.0.1" />
+    </ItemGroup>
+
 </Project>
