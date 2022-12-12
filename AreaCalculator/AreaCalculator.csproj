@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>Калькулятор площадей для разных фигур(плюс проверка треугольника на прямоугольность)</Title>
+        <Authors>Sokolov Artem</Authors>
+        <Description>Задание для компании MindBox</Description>
+    </PropertyGroup>
+
+</Project>
